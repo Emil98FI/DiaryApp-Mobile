@@ -1,0 +1,7 @@
+{
+  "name": "DiaryApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
